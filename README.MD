@@ -12,12 +12,12 @@ This project is a scraper bot designed to fetch job postings from Ponisha (an Ir
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Masniper/PonishaScraperBot
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd <project_directory>
+    cd PonishaScraperBot
     ```
 
 3. Create a virtual environment:
