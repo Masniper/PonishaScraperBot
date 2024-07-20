@@ -3,6 +3,15 @@
 
 This project is a scraper bot designed to fetch job postings from Ponisha (an Iranian freelancer platform) and send the details to a Telegram bot.
 
+## Sample Bot
+
+Here is a sample of how the bot operates:
+
+![Sample Image1](Images/PonishaScraper1.png)
+![Sample Image2](Images/PonishaScraper2.png)
+
+The images above show job postings being sent to the Telegram bot.
+
 ## Project Structure
 
 - **main.py**: Contains the main logic for scraping job postings and sending them to Telegram.
